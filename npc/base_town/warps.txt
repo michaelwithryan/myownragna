@@ -14,5 +14,5 @@
 //============================================================
 
 //Alberta City
-prt_lib,88,91,0	warp	alb001	2,5,pay_fild03,388,63
-prt_lib,88,44,0	warp	alb001	2,5,pay_fild03,388,63
+prt_lib,88,91,0	warp	PVP	2,2,pvp_n_8-5,98,95
+prt_lib,88,44,0	warp	PVP	2,2,pvp_n_8-5,98,95
