@@ -1,7 +1,8 @@
 -	script	Max_leveler	-1,{
 	mes "MAAAAAX LEVEEEEEEEL!!!!!";
-	BaseLevel+= 150
-	JobLevel+= 50
+	BaseLevel+= 150;
+	JobLevel+= 50;
+	close;
 }
 
 
